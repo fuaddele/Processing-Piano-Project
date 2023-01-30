@@ -1,0 +1,5 @@
+MP3 audio file links
+https://freesound.org/search/?q=piano%20sound&f=grouping_pack:%2212995_Piano%20Keys%20C3-C6%22%20bitdepth:%2216%22+type:%22mp3%22&s=%22score%20desc%22&g=1&advanced=&a_tag=&a_filename=&a_description=&a_packname=&a_soundid=&a_username=
+
+WAV audio file links
+https://freesound.org/search/?g=1&q=piano%20sound&f=type%3A%22wav%22%20bitdepth:%2216%22&s=None&cluster_id=
